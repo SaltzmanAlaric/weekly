@@ -5,4 +5,5 @@
 
 ## 2018
 
-**十一月**：[第 1 期](docs/issue-01.md):sunny: | [第 29 期](docs/issue-29.md)
+**十一月**：[第 1 期](docs/issue-01.md "11/12--11/19"):sunny: | [第 29 期](docs/issue-29.md)
+
