@@ -1,4 +1,4 @@
-# weekly（模仿[峰哥的](https://github.com/ruanyf/weekly)）
+# weekly（模仿峰哥的[技术分享周刊](https://github.com/ruanyf/weekly)）
 日常随记 文件按周分隔
 
 如果你看到好的链接，欢迎通过 [issue](https://github.com/SaltzmanAlaric/weekly/issues) 提交。
